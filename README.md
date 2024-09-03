@@ -6,7 +6,7 @@
 
 ⚡ Fun fact: I play volleyball
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://facebook.com/lucasgbalduino" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lucas Balduino on Facebook" height="30" width="40" />
@@ -15,7 +15,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Lucas Balduino on Instagram" height="30" width="40" />
   </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
@@ -57,7 +57,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-balduino&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
 </div>
-<h3 align="left">Stats:</h3>
+<h3 align="center">Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucas-balduino&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </div>

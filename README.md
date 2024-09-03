@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lucas Balduino</h1>
 <h3 align="center">A passionate full-stack developer from Brazil</h3>
-🌱 I’m currently learning JavaScript
+<br>
+<p align="center"> 🌱 I’m currently learning JavaScript</p>
+<p align="center"> 📫 How to reach me: lucasgbalduino@gmail.com </p>
 
-📫 How to reach me: lucasgbalduino@gmail.com
-
-⚡ Fun fact: I play volleyball
+<p align="center">⚡ Fun fact: I play volleyball </p>
 
 <h3 align="center">Connect with me:</h3>
+<br>
 <p align="center">
   <a href="https://facebook.com/lucasgbalduino" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lucas Balduino on Facebook" height="30" width="40" />
@@ -16,6 +17,7 @@
   </a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
+<br>
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>

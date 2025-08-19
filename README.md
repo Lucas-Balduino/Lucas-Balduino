@@ -32,8 +32,6 @@ I build web projects that blend interactive front‑end engineering with user‑
 
    * Tech: Java (GUI) — Role: Developer
 
-> Project links point to the repositories and live demo where available. No images required — ready to go.
-
 ---
 
 ## Experience

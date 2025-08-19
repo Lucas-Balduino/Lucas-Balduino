@@ -26,7 +26,7 @@ I build web projects that blend interactive front‑end engineering with user‑
 1. **[JetPackGuy](https://github.com/Lucas-Balduino/JetPackGuy)** — Remake of the *JetPack JoyRide* game for the web. Built to explore game mechanics, responsive input and simple asset management for browsers.
 
    * Live demo: [https://lucas-balduino.github.io/JetPackGuy/](https://lucas-balduino.github.io/JetPackGuy/)
-   * Tech: HTML, JavaScript, React — Role: Developer & Designer
+   * Tech: HTML, JavaScript — Role: Developer & Designer
 
 2. **[Agência de Viagens](https://github.com/Lucas-Balduino/AgenciaDeViagens)** — Java desktop application with a graphical user interface for travel agency management. Focused on desktop UI and data handling.
 
@@ -124,7 +124,7 @@ Desenvolvo projetos web que unem engenharia de front‑end interativa com design
 1. **[JetPackGuy](https://github.com/Lucas-Balduino/JetPackGuy)** — Remake do jogo *JetPack JoyRide* para web. Objetivo: explorar mecânicas de jogo, entrada responsiva e gerenciamento simples de assets no navegador.
 
    * Demo: [https://lucas-balduino.github.io/JetPackGuy/](https://lucas-balduino.github.io/JetPackGuy/)
-   * Tecnologias: HTML, JavaScript, React — Papel: Desenvolvedor & Designer
+   * Tecnologias: HTML, JavaScript — Papel: Desenvolvedor & Designer
 
 2. **[Agência de Viagens](https://github.com/Lucas-Balduino/AgenciaDeViagens)** — Aplicação desktop em Java com interface gráfica para gestão de agência de viagens. Foco em UI desktop e manipulação de dados.
 

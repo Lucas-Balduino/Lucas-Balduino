@@ -1,4 +1,4 @@
-# Hi — I’m **Lucas Gonçalves Balduino** 👋
+[# Hi — I’m **Lucas Gonçalves Balduino** 👋
 
 **Title / Role —** Developer / Designer
 
@@ -189,3 +189,5 @@ Disponível para **projetos freelance**. Aberto a oportunidades em front‑end, 
 Este conteúdo do README está disponível sob a licença [MIT](LICENSE).
 
 ---
+](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Balduino&theme=dark&hide_border=true&layout=compact&hide=Jupyter%20Notebook
+)

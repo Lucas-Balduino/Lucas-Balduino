@@ -1,4 +1,4 @@
-[# Hi — I’m **Lucas Gonçalves Balduino** 👋
+# Hi — I’m **Lucas Gonçalves Balduino** 👋
 
 **Title / Role —** Developer / Designer
 
@@ -82,8 +82,8 @@ Available for **freelance projects**. Open to front‑end, UI/UX and small full�
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Balduino&theme=dark&hide_border=true" width="360" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Balduino&theme=dark&hide_border=true&layout=compact" width="360" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Balduino&theme=dark&hide_border=true" width="360" height="200" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Balduino&theme=dark&hide_border=true&layout=compact&hide=Jupyter%20Notebook" width="360" height="200" alt="Top languages" />
 </p>
 
 ---
@@ -179,7 +179,7 @@ Disponível para **projetos freelance**. Aberto a oportunidades em front‑end, 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Balduino&theme=dark&hide_border=true" width="360" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Balduino&theme=dark&hide_border=true&layout=compact" width="360" alt="Principais linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Balduino&theme=dark&hide_border=true&layout=compact&hide=Jupyter%20Notebook" width="360" alt="Principais linguagens" />
 </p>
 
 ---
@@ -189,5 +189,3 @@ Disponível para **projetos freelance**. Aberto a oportunidades em front‑end, 
 Este conteúdo do README está disponível sob a licença [MIT](LICENSE).
 
 ---
-](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Balduino&theme=dark&hide_border=true&layout=compact&hide=Jupyter%20Notebook
-)

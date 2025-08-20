@@ -23,14 +23,16 @@ I build web projects that blend interactive front‑end engineering with user‑
 
 ## Featured Projects
 
-1. **[JetPackGuy](https://github.com/Lucas-Balduino/JetPackGuy)** — Remake of the *JetPack JoyRide* game for the web. Built to explore game mechanics, responsive input and simple asset management for browsers.
+1. [**JetPackGuy**](https://github.com/Lucas-Balduino/JetPackGuy) — Remake of the *JetPack JoyRide* game for the web. Built to explore game mechanics, responsive input and simple asset management for browsers.
 
    * Live demo: [https://lucas-balduino.github.io/JetPackGuy/](https://lucas-balduino.github.io/JetPackGuy/)
-   * Tech: HTML, CSS, JavaScript — Role: Developer & Designer
+   * Tech: HTML, JavaScript, React — Role: Developer & Designer
 
-2. **[Agência de Viagens](https://github.com/Lucas-Balduino/AgenciaDeViagens)** — Java desktop application with a graphical user interface for travel agency management. Focused on desktop UI and data handling.
+2. [**Agência de Viagens**](https://github.com/Lucas-Balduino/AgenciaDeViagens) — Java desktop application with a graphical user interface for travel agency management. Focused on desktop UI and data handling.
 
-   * Tech: Java, Java Swing (GUI) — Role: Developer
+   * Tech: Java (GUI) — Role: Developer
+
+> Project links point to the repositories and live demo where available. No images required — ready to go.
 
 ---
 
@@ -79,10 +81,9 @@ Available for **freelance projects**. Open to front‑end, UI/UX and small full�
 
 ## GitHub Stats (optional)
 
-```
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Balduino)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Balduino)
-```
 
 ---
 
@@ -91,8 +92,6 @@ Available for **freelance projects**. Open to front‑end, UI/UX and small full�
 This README content is available under the [MIT License](LICENSE).
 
 ---
-
-<p align="center">Made with ❤️ — open to connections and collaborations.</p>
 
 ---
 
@@ -121,14 +120,14 @@ Desenvolvo projetos web que unem engenharia de front‑end interativa com design
 
 ## Projetos em Destaque
 
-1. **[JetPackGuy](https://github.com/Lucas-Balduino/JetPackGuy)** — Remake do jogo *JetPack JoyRide* para web. Objetivo: explorar mecânicas de jogo, entrada responsiva e gerenciamento simples de assets no navegador.
+1. [**JetPackGuy**](https://github.com/Lucas-Balduino/JetPackGuy) — Remake do jogo *JetPack JoyRide* para web. Objetivo: explorar mecânicas de jogo, entrada responsiva e gerenciamento simples de assets no navegador.
 
    * Demo: [https://lucas-balduino.github.io/JetPackGuy/](https://lucas-balduino.github.io/JetPackGuy/)
-   * Tecnologias: HTML, CSS, JavaScript — Papel: Desenvolvedor & Designer
+   * Tecnologias: HTML, JavaScript, React — Papel: Desenvolvedor & Designer
 
-2. **[Agência de Viagens](https://github.com/Lucas-Balduino/AgenciaDeViagens)** — Aplicação desktop em Java com interface gráfica para gestão de agência de viagens. Foco em UI desktop e manipulação de dados.
+2. [**Agência de Viagens**](https://github.com/Lucas-Balduino/AgenciaDeViagens) — Aplicação desktop em Java com interface gráfica para gestão de agência de viagens. Foco em UI desktop e manipulação de dados.
 
-   * Tecnologias: Java, Java Swing (GUI) — Papel: Desenvolvedor
+   * Tecnologias: Java (GUI) — Papel: Desenvolvedor
 
 ---
 
@@ -179,10 +178,9 @@ Disponível para **projetos freelance**. Aberto a oportunidades em front‑end, 
 
 Snippet para exibir estatísticas no README do perfil:
 
-```
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Balduino)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Balduino)
-```
 
 ---
 
@@ -191,5 +189,3 @@ Snippet para exibir estatísticas no README do perfil:
 Este conteúdo do README está disponível sob a licença [MIT](LICENSE).
 
 ---
-
-<p align="center">Feito com ❤️ — aberto a conexões e colaborações.</p>

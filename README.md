@@ -79,7 +79,12 @@ Available for **freelance projects**. Open to front‑end, UI/UX and small full�
 
 ---
 
-## GitHub Stats&#x20;
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Balduino&theme=dark&hide_border=true" width="360" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Balduino&theme=dark&hide_border=true&layout=compact" width="360" alt="Top languages" />
+</p>
 
 ---
 
@@ -170,9 +175,12 @@ Disponível para **projetos freelance**. Aberto a oportunidades em front‑end, 
 
 ---
 
-## Estatísticas do GitHub&#x20;
+## Estatísticas do GitHub
 
-Snippet para exibir estatísticas no README do perfil:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Balduino&theme=dark&hide_border=true" width="360" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Balduino&theme=dark&hide_border=true&layout=compact" width="360" alt="Principais linguagens" />
+</p>
 
 ---
 

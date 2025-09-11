@@ -34,6 +34,13 @@ I build web projects that blend interactive front‑end engineering with user‑
 
 ---
 
+## Portfolio
+
+Explore live demos, case studies and design work on my portfolio:  
+**https://lucas-balduino.github.io/Portifolio/**
+
+---
+
 ## Experience
 
 * **HTML & CSS Teaching Assistant** — University monitor role, helping students learn practical web layout and styling techniques.
@@ -88,4 +95,4 @@ Available for **freelance projects**. Open to front‑end, UI/UX and small full�
 
 ## License
 
-This README content is available under the [MIT License](LICENSE).
+This README content is available under the [MIT License](LICENSE). 
